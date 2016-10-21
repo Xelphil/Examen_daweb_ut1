@@ -1,0 +1,1 @@
+$appName="Aplicacioón de prueba";
